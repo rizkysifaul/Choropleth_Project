@@ -1,1 +1,1 @@
-# Choropleth_Project
+# Choropleth_Project [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rizkysifaul/choropleth_project/main/map_project.py)
